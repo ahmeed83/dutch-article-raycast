@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:welklidwoord.nl)",
+      "Bash(npm run build:*)",
+      "WebSearch",
+      "WebFetch(domain:www.heardutchhere.net)",
+      "WebFetch(domain:travelwithlanguages.com)",
+      "WebFetch(domain:www.dutchgrammar.com)",
+      "WebFetch(domain:en.wiktionary.org)",
+      "WebFetch(domain:www.welklidwoord.nl)"
+    ]
+  }
+}
