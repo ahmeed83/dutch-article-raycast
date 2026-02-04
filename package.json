@@ -3,9 +3,14 @@
   "title": "Dutch Article (Het of De)",
   "description": "Look up whether a Dutch word uses 'het' or 'de' as its article",
   "icon": "command-icon.png",
+  "owner": "ahmeed83",
+  "access": "public",
+  "contributors": [
+    "ahmeed83"
+  ],
   "author": "ahmedaziz",
   "categories": [
-    "Other"
+    "Education"
   ],
   "license": "MIT",
   "commands": [
